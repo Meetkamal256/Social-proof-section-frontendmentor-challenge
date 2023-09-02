@@ -35,7 +35,7 @@ body{
     display: grid;
     grid-template-columns: repeat(2, 300px);
     grid-gap: 140px; 
-    margin-top: 2rem;
+    margin-top: 3rem;
 }
 
 .top-section h1{
